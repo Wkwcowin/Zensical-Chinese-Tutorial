@@ -44,7 +44,7 @@ Zensical 的长期规划与愿景以官方为准，建议关注：
 
 欢迎参与项目完善！
 
-<a href="https://github.com/Wcowin/Zensical-Chinese-Tutorial/graphs/contributors">
+<a href="https://github.com/Wkwcowin/Zensical-Chinese-Tutorial/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Wcowin/Zensical-Chinese-Tutorial" />
 </a>
 
